@@ -20,13 +20,13 @@ To clone repo, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/Personal-Portfolio.git
+sudo git clone https://github.com/Subrat29/Personal-Portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/Personal-Portfolio.git
+git clone https://github.com/Subrat29/Personal-Portfolio.git
 ```
 
 ## Contact
