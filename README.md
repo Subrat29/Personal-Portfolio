@@ -31,7 +31,7 @@ git clone https://github.com/Subrat29/Personal-Portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/subratyadav/).
+If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/subratyadav/)
 
 ## Inspired by
-[codewithsadee](https://github.com/codewithsadee/vcard-personal-portfolio).
+[codewithsadee](https://github.com/codewithsadee/vcard-personal-portfolio)
